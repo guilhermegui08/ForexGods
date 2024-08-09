@@ -22,4 +22,4 @@ Welcome to **Forex Gods**, a game developed in Visual Basic by Guilherme Guilher
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GPL-2.0 License. See the [LICENSE](LICENSE) file for more details.
